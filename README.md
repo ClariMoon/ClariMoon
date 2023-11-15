@@ -21,7 +21,7 @@ Sou formada em Engenharia Química e trabalhei como Engenheira de Processos em u
 
 Meu primeiro contato com tecnologia foi no início da adolescência, quando ganhei meu primeiro computador de mesa, e desde então virou meu passatempo. 
 
-No ensino médio, no qual fiz em uma escola técnica, tive meu primeiro contato com linguagem de programação, a linguagem C, e na época até comecei a fazer um "projetinho" para um mercadinho que minha família iria realizar. Bem, infelizmente a ideia do mercadinho não foi pra frente 😔, mas a minha vontade de aprender e a  paixão por tecnologia continua firme e forte! ✨
+No ensino médio, no qual fiz em uma escola técnica, tive meu primeiro contato com linguagem de programação, a linguagem C, e na época até comecei a fazer um "projetinho" para um mercadinho que minha família iria realizar. Bem, infelizmente a ideia do mercadinho não foi pra frente, mas a minha vontade de aprender e a  paixão por tecnologia continua firme e forte! ✨
 
 
 
