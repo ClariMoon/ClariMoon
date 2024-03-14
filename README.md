@@ -35,14 +35,14 @@ No ensino médio, no qual fiz em uma escola técnica, tive meu primeiro contato 
 
 ### Habilidades
 
-![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=R&logoColor=30A3DC)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![PowerBI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=powerbi)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql&logoColor=E94D5F)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ![MachineLearning](https://img.shields.io/badge/MachineLearning-000?style=for-the-badge&logo=MachineLearning&logoColor=30A3DC)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql&logoColor=E94D5F)
 ![NoSQL](https://img.shields.io/badge/NoSQL-000?style=for-the-badge&logo=nosql&logoColor=30A3DC)
+![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=R&logoColor=30A3DC)
 
 ### GitHub Stats
 
